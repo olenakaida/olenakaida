@@ -5,6 +5,6 @@
 - 🤔 I’m looking for help with my first job in IT.
 - 💬 Ask me about HTML, CSS, JavaScript, VueJS, AJAX, Git.
 - 📫 How to reach me: olenakaida@gmail.com
-- 😄 Pronouns: Olena KaIda
+- 😄 Pronouns: Elena, Eleni
 - ⚡ Fun fact: I have a cat named Squirrel.
 
